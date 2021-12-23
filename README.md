@@ -28,3 +28,9 @@ Simple script to install PHP 8 on Ubuntu
 
 #### Install additional PHP extensions
 `sudo apt-get install -y php8.0-pgsql`
+
+
+
+
+#### Need composer?
+`sudo apt install composer -y` 
