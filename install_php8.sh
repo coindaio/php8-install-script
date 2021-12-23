@@ -1,5 +1,5 @@
 #!/bin/sh
-# Example of function in bash scripting
+# Copyright https://www.coinda.io
 RunPhpInstall() {
         sudo apt-get update
         sudo apt -y install software-properties-common
